@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "workbench.iconTheme": "icons",
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false
+}
